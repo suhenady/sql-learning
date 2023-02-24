@@ -1,3 +1,3 @@
 # sql-learning
 
-Code from my SQL learning challenges.
+Code examples from my SQL learning challenges.
